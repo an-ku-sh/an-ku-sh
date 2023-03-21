@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankush Behera</h1>
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/an-ku-sh/an-ku-sh/blob/main/naruto1.gif))
 <h3 align="center">Just a guy that loves "Tech" :P.</h3>
 
 - 🔭 I’m currently working on **Android & Game Dev**
