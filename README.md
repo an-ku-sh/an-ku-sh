@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Game Development**
 
-- 💬 Ask me about **Flutter, Dart, Unreal Engine, Firebase, Blender, Substance Painter, Premier Pro, Adobe Illustrator**
+- 💬 Ask me about **Flutter, Dart, Unreal Engine, Firebase, Blender**
 
 - 📫 How to reach me **ankush41behera@gmail.com**
 
