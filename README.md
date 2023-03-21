@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Android Dev & Game Dev**
 
-- 🌱 I’m currently learning **Flutter Dart, Unreal, Blender, Substance Painter.**
+- 🌱 I’m currently learning **Flutter, Dart, Unreal, Blender, Substance Painter.**
 
 - 👯 I’m looking to collaborate on **Game Development**
 
