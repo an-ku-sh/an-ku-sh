@@ -1,3 +1,8 @@
+<p align="center" >
+ 
+  <img height=150px src="https://github.com/an-ku-sh/an-ku-sh/blob/main/naruto1.gif" />
+  
+ </p>
 ![](https://github.com/an-ku-sh/an-ku-sh/blob/main/naruto1.gif)
 <h1 align="center">Hi 👋, I'm Ankush Behera</h1>
 
