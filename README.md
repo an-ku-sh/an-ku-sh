@@ -7,7 +7,7 @@
 
 <h3 align="center">Just a guy that loves "Tech" :P.</h3>
 
-- 🔭 I’m currently working on **Android & Game Dev**
+- 🔭 I’m currently working on **Android Dev & Game Dev**
 
 - 🌱 I’m currently learning **Flutter Dart, Unreal, Blender, Substance Painter.**
 
